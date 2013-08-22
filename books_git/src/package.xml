@@ -49,10 +49,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>Profile</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Workflow</name>
     </types>
     <version>27.0</version>
